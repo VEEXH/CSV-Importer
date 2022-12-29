@@ -5,6 +5,8 @@ This Python program allows the user to input data manually through the command l
 Python 3.x
 Usage
 To run the program, open a terminal and navigate to the directory where the program is located. Then enter the following command:
+python data_input.py
+
 
 ## Copy code
 python auto.py
